@@ -11,4 +11,4 @@ The image here represents the final dashboard created in MS Power BI.
 
 To play around with the dashboard, use this link:
 
-![Twitter-Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYTA0YjFlZjctNGY5Ni00MzQ2LTkzYTQtYWQ4YzNiNTU3YjJkIiwidCI6IjgwZjIzZjRhLTkxYTQtNDU2Ni04ZGIxLTNiY2FiYjIxZDFjYiIsImMiOjF9)
+**[Twitter-Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYTA0YjFlZjctNGY5Ni00MzQ2LTkzYTQtYWQ4YzNiNTU3YjJkIiwidCI6IjgwZjIzZjRhLTkxYTQtNDU2Ni04ZGIxLTNiY2FiYjIxZDFjYiIsImMiOjF9)**
